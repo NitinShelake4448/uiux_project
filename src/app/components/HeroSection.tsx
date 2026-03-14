@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { Download, Mail, FolderOpen } from "lucide-react";
-import profileImage from "figma:asset/210f11c8667515007ccd92006a0f6aacd8867cd0.png";
+import profileImage from "../../assets/210f11c8667515007ccd92006a0f6aacd8867cd0.png";
 
 export function HeroSection() {
   const scrollToSection = (id: string) => {
