@@ -4,28 +4,28 @@ const projects: any = {
   election: {
     title: "Machine Learning Election Prediction",
     about:
-      "Developed a machine learning-based system to predict election outcomes using historical data, demographic information, and regional patterns.",
+      "Developed a machine learning-based system to predict election outcomes using historical voting data, demographic information, and regional patterns. The project includes data cleaning, feature engineering, and model training using multiple algorithms such as Logistic Regression, Decision Trees, and Random Forest. Comparative analysis was performed to select the best-performing model. The system highlights key factors influencing election results and provides data-driven insights for better decision-making.",
     tech: ["Python", "Scikit-learn", "Pandas", "NumPy"],
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
   },
   ocr: {
     title: "OCR Answer Checking System",
     about:
-      "Built an OCR-based system to extract and evaluate answers automatically using NLP techniques.",
+      "Built an automated answer evaluation system that uses Optical Character Recognition (OCR) to extract text from handwritten or printed answer sheets. The extracted text is processed and compared with predefined correct answers using similarity matching and NLP techniques. The system helps reduce manual effort, improves evaluation speed, and ensures consistent grading. It is designed to scale for educational institutions and online examination systems.",
     tech: ["Python", "Tesseract", "OpenCV", "PIL"],
    image: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80",
   },
   nlp: {
     title: "NLP Text Classification",
     about:
-      "Implemented deep learning-based text classification using TensorFlow and NLP preprocessing techniques.",
+      "Implemented a natural language processing system to classify text documents into multiple categories using deep learning techniques. The workflow includes text preprocessing steps such as tokenization, stopword removal, and stemming, followed by feature extraction and model training using TensorFlow and Keras. The model can be applied to real-world use cases like spam detection, sentiment analysis, and document organization.",
     tech: ["Python", "TensorFlow", "Keras", "NLTK"],
     image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
   },
   svm: {
     title: "Support Vector Machine Implementation",
     about:
-      "Implemented SVM from scratch including kernel functions and optimization techniques.",
+      "Developed a Support Vector Machine (SVM) algorithm from scratch to understand its mathematical foundations and working principles. The implementation includes margin maximization, kernel functions (linear and non-linear), and optimization techniques. The project also visualizes decision boundaries and supports classification tasks, providing a deeper understanding of how SVM models operate internally.",
     tech: ["Python", "NumPy", "Matplotlib", "SciPy"],
     image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
   },
