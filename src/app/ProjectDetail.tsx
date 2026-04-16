@@ -13,7 +13,7 @@ const projects: any = {
     about:
       "Built an OCR-based system to extract and evaluate answers automatically using NLP techniques.",
     tech: ["Python", "Tesseract", "OpenCV", "PIL"],
-    image: "https://images.unsplash.com/photo-1581090700227-1e8eeb6d2b2c",
+   image: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80",
   },
   nlp: {
     title: "NLP Text Classification",
