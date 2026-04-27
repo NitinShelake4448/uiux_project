@@ -113,6 +113,39 @@ export default function ProjectDetail() {
         </div>
       </div>
 
+      {/* UX Case Study */}
+<div className="mt-10 space-y-6">
+
+  <div>
+    <h2 className="text-xl font-semibold">Problem Statement</h2>
+    <p className="text-muted-foreground">
+      Users faced difficulty browsing restaurants, placing orders quickly, and navigating through cluttered interfaces.
+    </p>
+  </div>
+
+  <div>
+    <h2 className="text-xl font-semibold">User Research</h2>
+    <p className="text-muted-foreground">
+      Conducted surveys and competitor analysis to identify pain points such as slow checkout and confusing UI.
+    </p>
+  </div>
+
+  <div>
+    <h2 className="text-xl font-semibold">Wireframing</h2>
+    <p className="text-muted-foreground">
+      Created low-fidelity wireframes to define structure, layout, and user flow before final design.
+    </p>
+  </div>
+
+  <div>
+    <h2 className="text-xl font-semibold">Final Design</h2>
+    <p className="text-muted-foreground">
+      Designed high-fidelity UI screens in Figma with a clean layout, modern components, and improved usability.
+    </p>
+  </div>
+
+</div>
+      
       {/* Screenshots */}
       <div className="mt-8">
         <h2 className="text-xl font-semibold mb-4">Project Screenshots</h2>
