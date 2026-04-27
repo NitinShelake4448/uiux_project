@@ -35,6 +35,15 @@ export function ProjectsSection({ navigate }: { navigate: any }) {
       gradient: "from-green-500 to-emerald-500",
     },
     {
+  id: "uiux",
+  title: "UX/UI Case Study – Food Delivery App",
+  description:
+    "Designed a user-friendly food delivery mobile app focusing on smooth navigation, fast ordering, and clean UI using Figma.",
+  image: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80",
+  technologies: ["Figma", "UX Research", "Wireframing", "Prototyping"],
+  gradient: "from-pink-500 to-purple-500",
+},
+    {
       id: "svm",
       title: "Support Vector Machine Implementation",
       description:
