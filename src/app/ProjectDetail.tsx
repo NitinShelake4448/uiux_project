@@ -22,6 +22,17 @@ const projects: any = {
     tech: ["Python", "TensorFlow", "Keras", "NLTK"],
     image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
   },
+  uiux: {
+  title: "UX/UI Case Study – Food Delivery App",
+
+  about:
+    "This project focuses on designing a modern food delivery mobile application with improved user experience, intuitive navigation, and faster checkout process.",
+
+  tech: ["Figma", "User Research", "Wireframing", "Prototyping"],
+
+  image:
+    "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80",
+},
   svm: {
     title: "Support Vector Machine Implementation",
     about:
