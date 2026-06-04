@@ -291,6 +291,70 @@ return ( <div className="min-h-screen bg-background text-foreground p-10">
         </p>
       </div>
 
+      <div>
+  <h2 className="text-xl font-semibold">
+    Design Process
+  </h2>
+
+  <p className="text-muted-foreground">
+    The project followed a user-centered design approach consisting of
+    research, problem identification, wireframing, prototyping, visual
+    design, usability testing, and final implementation. Each stage
+    helped improve the user experience and create a seamless food
+    ordering journey.
+  </p>
+</div>
+
+<div>
+  <h2 className="text-xl font-semibold">
+    Challenges Faced
+  </h2>
+
+  <p className="text-muted-foreground">
+    One of the major challenges was reducing the number of steps required
+    to place an order while maintaining clarity and usability.
+    Navigation complexity and checkout flow optimization were addressed
+    through multiple iterations and user feedback.
+  </p>
+</div>
+
+<div>
+  <h2 className="text-xl font-semibold">
+    Solution
+  </h2>
+
+  <p className="text-muted-foreground">
+    A simplified navigation structure, intuitive search functionality,
+    categorized menu system, and streamlined checkout process were
+    implemented to improve overall usability and reduce user effort.
+  </p>
+</div>
+
+<div>
+  <h2 className="text-xl font-semibold">
+    Outcome
+  </h2>
+
+  <p className="text-muted-foreground">
+    The final design improved task completion speed, enhanced user
+    satisfaction, and provided a visually appealing interface optimized
+    for both mobile and tablet devices.
+  </p>
+</div>
+
+<div>
+  <h2 className="text-xl font-semibold">
+    Learnings
+  </h2>
+
+  <p className="text-muted-foreground">
+    This project strengthened my understanding of user research,
+    wireframing, prototyping, usability principles, and Figma design
+    workflows. It also improved my ability to design interfaces based on
+    real user needs.
+  </p>
+</div>
+      
     </div>
   )}
 
