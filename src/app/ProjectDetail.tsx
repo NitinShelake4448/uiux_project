@@ -5,8 +5,6 @@ election: {
 title: "Machine Learning Election Prediction",
 about:
 "Developed a machine learning-based system to predict election outcomes using historical voting data, demographic information, and regional patterns. The project includes data cleaning, feature engineering, and model training using multiple algorithms such as Logistic Regression, Decision Trees, and Random Forest.",
-
-```
 tech: ["Python", "Scikit-learn", "Pandas", "NumPy"],
 
 duration: "3 Months",
@@ -22,14 +20,12 @@ screenshots: [
   "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
   "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
 ],
-```
 
 },
 
 ocr: {
 title: "OCR Answer Checking System",
 
-```
 about:
   "Built an automated answer evaluation system that uses OCR and NLP techniques to extract, process, and evaluate answers automatically.",
 
@@ -48,14 +44,12 @@ screenshots: [
   "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
   "https://images.unsplash.com/photo-1518770660439-4636190af475",
 ],
-```
 
 },
 
 nlp: {
 title: "NLP Text Classification",
 
-```
 about:
   "Implemented a natural language processing system to classify text documents into multiple categories using deep learning techniques.",
 
@@ -74,14 +68,12 @@ screenshots: [
   "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
   "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
 ],
-```
 
 },
 
 uiux: {
 title: "UX/UI Case Study – Food Delivery App",
 
-```
 about:
   "Designed a modern food delivery application focusing on usability, intuitive navigation, and seamless user experience.",
 
@@ -100,7 +92,6 @@ screenshots: [
   "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
   "https://images.unsplash.com/photo-1552566626-52f8b828add9",
 ],
-```
 
 },
 };
@@ -118,7 +109,6 @@ Project Not Found </div>
 
 return ( <div className="min-h-screen bg-background text-foreground p-10">
 
-```
   <button
     onClick={() => navigate(-1)}
     className="mb-6 px-4 py-2 bg-primary rounded-lg"
@@ -259,7 +249,6 @@ return ( <div className="min-h-screen bg-background text-foreground p-10">
     </div>
   </div>
 </div>
-```
 
 );
 }
