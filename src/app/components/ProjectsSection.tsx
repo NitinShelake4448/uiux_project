@@ -43,16 +43,6 @@ export function ProjectsSection({ navigate }: { navigate: any }) {
   technologies: ["Figma", "UX Research", "Wireframing", "Prototyping"],
   gradient: "from-pink-500 to-purple-500",
 },
-    {
-      id: "svm",
-      title: "Support Vector Machine Implementation",
-      description:
-        "Developed a Support Vector Machine (SVM) algorithm from scratch to understand its mathematical foundations and working principles. The implementation includes margin maximization, kernel functions (linear and non-linear), and optimization techniques. The project also visualizes decision boundaries and supports classification tasks, providing a deeper understanding of how SVM models operate internally.",
-      image:
-        "https://images.unsplash.com/photo-1712971724897-a9ae95e0ec44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      technologies: ["Python", "NumPy", "Matplotlib", "Scipy"],
-      gradient: "from-orange-500 to-red-500",
-    },
   ];
 
   return (
