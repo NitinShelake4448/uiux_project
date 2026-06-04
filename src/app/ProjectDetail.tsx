@@ -33,13 +33,6 @@ const projects: any = {
   image:
     "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80",
 },
-  svm: {
-    title: "Support Vector Machine Implementation",
-    about:
-      "Developed a Support Vector Machine (SVM) algorithm from scratch to understand its mathematical foundations and working principles. The implementation includes margin maximization, kernel functions (linear and non-linear), and optimization techniques. The project also visualizes decision boundaries and supports classification tasks, providing a deeper understanding of how SVM models operate internally.",
-    tech: ["Python", "NumPy", "Matplotlib", "SciPy"],
-    image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
-  },
 };
 
 export default function ProjectDetail() {
