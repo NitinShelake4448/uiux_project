@@ -11,17 +11,17 @@ duration: "3 Months",
 role: "Machine Learning Developer",
 status: "Completed",
 
+  features: [
+  "OCR-based text extraction",
+  "Automatic answer evaluation",
+  "Similarity score calculation",
+  "Handwritten and printed text support",
+  "Reduced manual checking effort",
+  "Fast and scalable grading process"
+],
+
 image:
   "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
-  
-features: [
-  "Historical election data analysis",
-  "Demographic-based prediction model",
-  "Feature engineering and preprocessing",
-  "Multiple ML algorithm comparison",
-  "Prediction accuracy evaluation",
-  "Interactive result visualization"
-],  
 
 screenshots: [
   "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
