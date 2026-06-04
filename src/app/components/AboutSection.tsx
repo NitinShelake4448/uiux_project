@@ -47,18 +47,26 @@ export function AboutSection() {
             className="space-y-6"
           >
             <div className="bg-card backdrop-blur-md border border-primary/20 rounded-2xl p-8 shadow-[0_0_40px_rgba(59,130,246,0.1)]">
-              <p className="text-lg leading-relaxed text-foreground/90">
-                Nitin D Shelake is a Computer Science student passionate about software development, 
-                artificial intelligence, and modern web technologies. He completed his BTech from 
-                Sardar Patel Institute of Technology and enjoys building innovative solutions while 
-                continuously learning new technologies.
-              </p>
-              <p className="text-lg leading-relaxed text-foreground/90 mt-4">
-                With a strong foundation in programming and a keen interest in machine learning, 
-                Nitin strives to bridge the gap between theoretical knowledge and practical 
-                applications. His journey in tech is driven by curiosity and a desire to create 
-                meaningful impact through code.
-              </p>
+             <p className="text-lg leading-relaxed text-foreground/90">
+  I am a Computer Science student with a strong interest in Artificial Intelligence,
+  Machine Learning, Data Science, and Full-Stack Development. I enjoy building
+  innovative solutions that solve real-world problems and continuously exploring
+  emerging technologies.
+</p>
+
+<p className="text-lg leading-relaxed text-foreground/90 mt-4">
+  Currently pursuing my B.Tech at Sardar Patel Institute of Technology, I have
+  worked on projects involving OCR-Based Answer Checking Systems, Machine Learning
+  Prediction Models, NLP Applications, and UI/UX Design. These experiences have
+  strengthened my problem-solving, programming, and analytical skills.
+</p>
+
+<p className="text-lg leading-relaxed text-foreground/90 mt-4">
+  I am passionate about learning, experimenting with new technologies, and creating
+  impactful software that combines creativity with technical excellence. My goal is
+  to contribute to innovative projects while continuously growing as an AI Engineer
+  and Software Developer.
+</p>
             </div>
           </motion.div>
 
