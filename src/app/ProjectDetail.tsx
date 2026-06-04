@@ -182,6 +182,32 @@ return ( <div className="min-h-screen bg-background text-foreground p-10">
     </div>
   </div>
 
+  {/* Key Features */}
+<div className="mt-8">
+  <h2 className="text-2xl font-semibold mb-4">
+    Key Features
+  </h2>
+
+  <ul className="space-y-3">
+    {project.features.map(
+      (feature: string, index: number) => (
+        <li
+          key={index}
+          className="flex items-start gap-3"
+        >
+          <span className="text-orange-500 text-xl">
+            •
+          </span>
+
+          <span className="text-muted-foreground">
+            {feature}
+          </span>
+        </li>
+      )
+    )}
+  </ul>
+</div>
+  
   <div className="mt-8">
     <h2 className="text-2xl font-semibold mb-3">
       Project Details
