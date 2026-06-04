@@ -60,13 +60,6 @@ export function AboutSection() {
   Prediction Models, NLP Applications, and UI/UX Design. These experiences have
   strengthened my problem-solving, programming, and analytical skills.
 </p>
-
-<p className="text-lg leading-relaxed text-foreground/90 mt-4">
-  I am passionate about learning, experimenting with new technologies, and creating
-  impactful software that combines creativity with technical excellence. My goal is
-  to contribute to innovative projects while continuously growing as an AI Engineer
-  and Software Developer.
-</p>
             </div>
           </motion.div>
 
