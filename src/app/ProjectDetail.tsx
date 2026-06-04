@@ -11,15 +11,15 @@ duration: "3 Months",
 role: "Machine Learning Developer",
 status: "Completed",
 
-  features: [
-  "OCR-based text extraction",
-  "Automatic answer evaluation",
-  "Similarity score calculation",
-  "Handwritten and printed text support",
-  "Reduced manual checking effort",
-  "Fast and scalable grading process"
+features: [
+  "Historical election data analysis",
+  "Demographic-based prediction model",
+  "Feature engineering and preprocessing",
+  "Multiple ML algorithm comparison",
+  "Prediction accuracy evaluation",
+  "Interactive result visualization"
 ],
-
+  
 image:
   "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
 
@@ -43,6 +43,15 @@ tech: ["Python", "Tesseract", "OpenCV", "PIL"],
 duration: "4 Months",
 role: "AI Developer",
 status: "Completed",
+
+  features: [
+  "OCR-based text extraction",
+  "Automatic answer evaluation",
+  "Similarity score calculation",
+  "Handwritten and printed text support",
+  "Reduced manual checking effort",
+  "Fast and scalable grading process"
+],
 
 image:
   "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800&q=80",
@@ -68,6 +77,15 @@ duration: "2 Months",
 role: "NLP Engineer",
 status: "Completed",
 
+features: [
+  "Text preprocessing pipeline",
+  "Tokenization and stemming",
+  "Deep learning classification model",
+  "Multi-category document classification",
+  "Sentiment analysis support",
+  "High accuracy prediction results"
+],
+  
 image:
   "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
 
@@ -88,10 +106,19 @@ about:
 
 tech: ["Figma", "User Research", "Wireframing", "Prototyping"],
 
-duration: "1 Month",
+duration: "1-2 Month",
 role: "UI/UX Designer",
 status: "Completed",
 
+features: [
+  "User-centered design process",
+  "Low-fidelity wireframing",
+  "Interactive Figma prototype",
+  "Simple food ordering workflow",
+  "Improved checkout experience",
+  "Responsive mobile-first design"
+],
+  
 image:
   "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
 
