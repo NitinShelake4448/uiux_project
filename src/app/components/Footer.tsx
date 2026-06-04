@@ -61,7 +61,7 @@ export function Footer() {
             className="text-center space-y-2"
           >
             <p className="text-muted-foreground">
-              Built with <span className="text-red-500">♥</span> using React & Tailwind CSS
+             
             </p>
             <p className="text-sm text-muted-foreground">
               © 2026 Nitin D Shelake. All Rights Reserved.
