@@ -170,15 +170,16 @@ return ( <div className="min-h-screen bg-background text-foreground p-10">
         {project.about}
       </p>
 
-      <div className="flex gap-4 mt-4">
-        <button className="px-4 py-2 bg-primary rounded-lg">
-          Live Demo
-        </button>
-
-        <button className="px-4 py-2 bg-secondary rounded-lg">
-          GitHub
-        </button>
-      </div>
+     <div className="flex gap-4 mt-4">
+  <a
+    href="https://github.com/NitinShelake4448"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="px-4 py-2 bg-secondary rounded-lg hover:opacity-80 transition"
+  >
+    GitHub Repository
+  </a>
+</div>
     </div>
   </div>
 
