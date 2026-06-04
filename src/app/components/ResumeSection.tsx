@@ -55,20 +55,23 @@ export function ResumeSection() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary to-accent mx-auto rounded-full mb-8"></div>
           
-          <motion.button
-            initial={{ opacity: 0, scale: 0.9 }}
-            whileInView={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 0.4, delay: 0.2 }}
-            viewport={{ once: true }}
-            whileHover={{ scale: 1.05 }}
-            className="group relative px-10 py-5 bg-gradient-to-r from-primary via-secondary to-accent rounded-xl overflow-hidden transition-all duration-300 hover:shadow-[0_0_50px_rgba(59,130,246,0.6)]"
-          >
-            <div className="absolute inset-0 bg-gradient-to-r from-accent via-primary to-secondary opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-            <span className="relative flex items-center gap-3 text-white font-semibold text-lg">
-              <Download className="w-6 h-6" />
-              Download Resume (PDF)
-            </span>
-          </motion.button>
+  <motion.a
+  href="/resume/Nitin_Shelake_AI_Engineer_resume.pdf"
+  download
+  initial={{ opacity: 0, scale: 0.9 }}
+  whileInView={{ opacity: 1, scale: 1 }}
+  transition={{ duration: 0.4, delay: 0.2 }}
+  viewport={{ once: true }}
+  whileHover={{ scale: 1.05 }}
+  className="group relative inline-flex px-10 py-5 bg-gradient-to-r from-primary via-secondary to-accent rounded-xl overflow-hidden transition-all duration-300 hover:shadow-[0_0_50px_rgba(59,130,246,0.6)]"
+>
+  <div className="absolute inset-0 bg-gradient-to-r from-accent via-primary to-secondary opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+
+  <span className="relative flex items-center gap-3 text-white font-semibold text-lg">
+    <Download className="w-6 h-6" />
+    Download Resume (PDF)
+        </span>
+        </motion.a>
         </motion.div>
 
         <div className="grid md:grid-cols-2 gap-8 mb-12">
